@@ -1,5 +1,4 @@
 puts "Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?"
-floors = 0
 begin
   puts "Choisis un nombre entier entre 1 et 25"
   floors = gets.to_f
